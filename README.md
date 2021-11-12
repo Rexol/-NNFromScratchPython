@@ -4,7 +4,7 @@ My realization of a simple dl framework from scratch
 There are simple parts to build neural network:
  - Linear Layer
  - Activation Functions:
-     - ReLu
+     - ReLU
      - LeakyReLU
      - Sigmoid
      - Softmax
